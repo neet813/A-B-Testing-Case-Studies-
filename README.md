@@ -1,4 +1,4 @@
-# A-B-Testing-Case-Studies-
+
 # A/B Testing Case Studies
 
 Three real A/B test case studies. Each one taught me something different about when to trust a result — and when not to.
